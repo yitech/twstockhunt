@@ -3,7 +3,7 @@ pydantic-settings
 fugle-trade-core>=2.1.0
 fugle-trade>=1.2.0
 uvicorn
-fugle-marketdata>=2.2.0
+fugle-marketdata>=2.4.1
 schedule
 requests
 types-requests
